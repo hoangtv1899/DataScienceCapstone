@@ -1,0 +1,12 @@
+name: next_word_prediction
+title: Next word prediction
+username:
+account: hoangtv1989
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 251760
+bundleId: 1151500
+url: https://hoangtv1989.shinyapps.io/next_word_prediction/
+when: 1514330932.22433
+asMultiple: FALSE
+asStatic: FALSE
